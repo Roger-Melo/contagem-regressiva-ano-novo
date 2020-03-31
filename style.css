@@ -52,8 +52,7 @@ h1 {
 }
 
 .countdown {
-  /* display: flex; */
-  display: none;
+  display: flex;
   transform: scale(2);
 }
 
